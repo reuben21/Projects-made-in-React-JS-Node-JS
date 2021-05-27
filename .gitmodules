@@ -1,0 +1,3 @@
+[submodule "Covid-Tracker-in-React-JS"]
+	path = Covid-Tracker-in-React-JS
+	url = git@github.com:reuben21/Covid-Tracker-in-React-JS.git
