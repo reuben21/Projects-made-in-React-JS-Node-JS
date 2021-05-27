@@ -7,3 +7,6 @@
 [submodule "Burger-Builder-Web-Application-using-React-JS"]
 	path = Burger-Builder-Web-Application-using-React-JS
 	url = git@github.com:reuben21/Burger-Builder-Web-Application-using-React-JS.git
+[submodule "Event-Booking-Project-MERNG-Stack"]
+	path = Event-Booking-Project-MERNG-Stack
+	url = git@github.com:reuben21/Event-Booking-Project-MERNG-Stack.git
