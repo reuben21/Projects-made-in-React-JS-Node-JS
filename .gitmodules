@@ -10,3 +10,6 @@
 [submodule "Event-Booking-Project-MERNG-Stack"]
 	path = Event-Booking-Project-MERNG-Stack
 	url = git@github.com:reuben21/Event-Booking-Project-MERNG-Stack.git
+[submodule "Shopping-Web-App-in-Node-JS-and-EJS"]
+	path = Shopping-Web-App-in-Node-JS-and-EJS
+	url = git@github.com:reuben21/Shopping-Web-App-in-Node-JS-and-EJS.git
