@@ -4,3 +4,6 @@
 [submodule "Third-Party-Authentication-in-React-JS"]
 	path = Third-Party-Authentication-in-React-JS
 	url = git@github.com:reuben21/Third-Party-Authentication-in-React-JS.git
+[submodule "Burger-Builder-Web-Application-using-React-JS"]
+	path = Burger-Builder-Web-Application-using-React-JS
+	url = git@github.com:reuben21/Burger-Builder-Web-Application-using-React-JS.git
