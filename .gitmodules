@@ -13,3 +13,6 @@
 [submodule "Shopping-Web-App-in-Node-JS-and-EJS"]
 	path = Shopping-Web-App-in-Node-JS-and-EJS
 	url = git@github.com:reuben21/Shopping-Web-App-in-Node-JS-and-EJS.git
+[submodule "Blogging-REST-Framework-in-Node-JS"]
+	path = Blogging-REST-Framework-in-Node-JS
+	url = git@github.com:reuben21/Blogging-REST-Framework-in-Node-JS.git
