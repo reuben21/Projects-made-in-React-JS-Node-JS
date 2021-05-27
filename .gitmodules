@@ -1,3 +1,6 @@
 [submodule "Covid-Tracker-in-React-JS"]
 	path = Covid-Tracker-in-React-JS
 	url = git@github.com:reuben21/Covid-Tracker-in-React-JS.git
+[submodule "Third-Party-Authentication-in-React-JS"]
+	path = Third-Party-Authentication-in-React-JS
+	url = git@github.com:reuben21/Third-Party-Authentication-in-React-JS.git
